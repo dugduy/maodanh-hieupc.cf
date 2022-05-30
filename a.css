@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content:center;
+    align-content: center;
+    margin-top: 12.5%;
+    background-image: url('https://picsum.photos/1000');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mydiv{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 10px;
+    backdrop-filter: blur(13px);
+}

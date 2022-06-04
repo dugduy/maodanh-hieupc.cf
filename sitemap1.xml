@@ -4,9 +4,18 @@
 
    <url>
 
-      <loc>http://hieupc.cf/</loc>
+      <loc>https://hieupc.cf/</loc>
 
       <lastmod>2022-05-31</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://hieupc.cf/about.html</loc>
+
+      <lastmod>2022-06-04</lastmod>
 
       <changefreq>monthly</changefreq>
 

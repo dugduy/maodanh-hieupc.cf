@@ -13,3 +13,21 @@ body{
     border-radius: 10px;
     backdrop-filter: blur(13px);
 }
+a{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: xx-large;
+    text-decoration:none;
+    transition-duration: 0.5s;
+}
+a:visited{
+    color: brown;
+}
+a:visited:hover{
+    color: white;
+    background-color: brown;
+}
+a:hover{
+    color: white;
+    background-color: blue;
+}
